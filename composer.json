@@ -1,0 +1,15 @@
+{
+    "name": "igor/slim-starter",
+    "description": "Boilerplate project for Slim micro framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Lopes",
+            "email": "igor@nucleus.eti.br"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
